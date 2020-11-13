@@ -8,3 +8,5 @@ Funcionalidades principais:
   1. Login
   2. Criar, ver e pesquisar post de eventos.
   3. Inscrições nos mesmos.
+ 
+ 
